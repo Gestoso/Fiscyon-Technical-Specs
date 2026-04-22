@@ -126,3 +126,16 @@ Once the import is accepted, the backend normalizes source-specific rows into a 
 # Disclaimer
 
 This README intentionally focuses on the SaaS at a feature and workflow level. It omits low-level implementation details, internal functions, database design, and sensitive processing logic by design.
+
+<img width="2529" height="1298" alt="image" src="https://github.com/user-attachments/assets/a6279b97-db29-4436-a8c4-fadef820d792" />
+<img width="2535" height="1297" alt="image" src="https://github.com/user-attachments/assets/0bed3299-6239-4211-a292-e3039d3e0a15" />
+<img width="2531" height="1299" alt="image" src="https://github.com/user-attachments/assets/c83f8814-79d5-4dc1-8477-0017f6de4b60" />
+<img width="489" height="625" alt="image" src="https://github.com/user-attachments/assets/7c698da2-37a6-4571-bd7a-4e20bc8dda0f" />
+<img width="2531" height="1300" alt="image" src="https://github.com/user-attachments/assets/772ad2b8-2419-4711-b173-4b21143fa4e9" />
+<img width="2532" height="856" alt="image" src="https://github.com/user-attachments/assets/546672e0-0e18-44c6-b70c-0ce630048354" />
+<img width="1256" height="1238" alt="image" src="https://github.com/user-attachments/assets/727c3ad0-97fa-4ac9-a89a-31904732b3eb" />
+<img width="1261" height="866" alt="image" src="https://github.com/user-attachments/assets/3c7abe9a-7d26-4816-b640-3710ff0a0e71" />
+<img width="2531" height="1101" alt="image" src="https://github.com/user-attachments/assets/4aaefc56-8df0-46ca-b509-20f5b129fd31" />
+<img width="734" height="1246" alt="image" src="https://github.com/user-attachments/assets/a277157f-a524-44bd-8e1b-9fe735b0d5ec" />
+
+
